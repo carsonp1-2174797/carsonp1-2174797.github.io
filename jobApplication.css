@@ -1,0 +1,28 @@
+body{
+    color:black;
+    text-align: justify;
+    background-image: url(darkwood.jpg);
+}
+
+h2{
+    color: mediumpurple;
+    font-weight: bolder;
+    font-size: 34px;
+}
+
+fieldset legend{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+label{
+    color: mediumpurple;
+}
+
+legend{
+    font-weight: bold;
+    color: mediumpurple;
+}
+
+#field{
+    color: green;
+}
